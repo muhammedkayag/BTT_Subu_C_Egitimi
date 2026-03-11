@@ -85,6 +85,26 @@ Eğer sürüm bilgileri görünüyorsa kurulum başarılıdır.
 
 ---
 
+# VSCode Extension Kurulumu
+
+VSCode içerisinde C geliştirme için bazı eklentilerin kurulması gerekir.
+
+VSCode'u açın ve **Extensions (Ctrl + Shift + X)** bölümüne gidin.
+
+Aşağıdaki eklentileri aratıp kurun:
+
+* **Code Runner**
+* **C/C++ (Microsoft)**
+
+Bu eklentiler şu özellikleri sağlar:
+
+* C kodlarını hızlı çalıştırma
+* IntelliSense (otomatik tamamlama)
+* Hata gösterimi
+* Debug desteği
+
+---
+
 # 5. VSCode Ayarları
 
 VSCode içerisinde CMake ile çalışabilmek için bazı ayarlar yapılmalıdır.
